@@ -14,6 +14,7 @@ OTA (Over the Air) 更新是指利用无线网络更新系统，禁用iOS设备�
 #### 文件下载链接
 * [iOS10 描述文件](https://raw.githubusercontent.com/chinsyo/noota/master/iOS10_NoOTA.mobileconfig)
 * [iOS11 描述文件](https://raw.githubusercontent.com/chinsyo/noota/master/iOS11_NoOTA.mobileconfig)
+* [iOS12 描述文件](https://raw.githubusercontent.com/chinsyo/noota/master/iOS12_NoOTA.mobileconfig)
 
 ---
 ## 提示
